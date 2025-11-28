@@ -1,0 +1,7 @@
+{
+    "naive_bayes": {
+        "accuracy": 58.0786,
+        "f1_score": 0.5861
+    },
+    "model_name": "Naive Bayes"
+}
